@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL/MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman/APIs"/>
 </p>
----
+
 
 ## 📌 Featured Projects
 - **MaherDuit** *(private repo)* – Accounting SaaS with bank statement parsing & QuickBooks-style reports  
