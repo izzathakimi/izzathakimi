@@ -7,10 +7,35 @@
 ---
 
 ## 🔥 Tech Stack
-**Frontend:** React, Next.js, TailwindCSS  
-**Backend:** Supabase, Firebase, Node.js, Python  
-**DevOps & Tools:** Docker, GitHub Actions, n8n, Vercel  
-**Other:** Clerk Authentication, SQL, REST APIs  
+**Frontend**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+</p>  
+
+**Backend**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+</p>  
+
+**DevOps & Tools**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" height="40"/> <!-- n8n -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40"/>
+</p>  
+
+**Other**  
+<p>
+  <img src="https://avatars.githubusercontent.com/u/71328327?s=200&v=4" width="40" height="40"/> <!-- Clerk -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/> <!-- APIs -->
+</p>  
 
 ---
 
